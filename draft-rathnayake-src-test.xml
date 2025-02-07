@@ -16,7 +16,7 @@
   </front>
   <middle>
     <section anchor="introduction" title="Introduction">
-      <t>intro</t>
+      <sourcecode src="hello.py" />
     </section>
   </middle>
   <back>
