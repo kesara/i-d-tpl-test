@@ -53,7 +53,7 @@ Table of Contents
 
 1.  Introduction
 
-   intro
+   print("Hello, Wold!")
 
 Author's Address
 
