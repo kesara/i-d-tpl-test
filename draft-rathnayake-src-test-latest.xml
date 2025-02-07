@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rfc xmlns:xinclude="http://www.w3.org/2001/XInclude" submissionType="IETF" ipr="trust200902" docName="draft-rathnayake-src-test-latest"  category="exp" version="3">
+  <front>
+    <title abbrev="src">SRC Test</title>
+    <author fullname="Kesara Rathnayake">
+      <address>
+        <postal>
+          <country>NZ</country>
+        </postal>
+        <email>kesara@fake.nz</email>
+      </address>
+    </author>
+    <abstract>
+      <t>Test src attribute.</t>
+    </abstract>
+  </front>
+  <middle>
+    <section anchor="introduction" title="Introduction">
+      <t>intro</t>
+    </section>
+  </middle>
+  <back>
+  </back>
+</rfc>
